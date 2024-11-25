@@ -9,3 +9,4 @@
 5. Update the Components, Data Ingestion,Data Transformation, Model Trainer
 6. Create Pipeline- 
 7. front end API
+
